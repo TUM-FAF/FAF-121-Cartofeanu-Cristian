@@ -2,6 +2,7 @@
 #include <tchar.h>
 #include <cstdlib>
 
+
 /*Identifiers for each button*/
 #define QUIT_BTN                100
 #define BUTTON_ADD_FOOD         101
