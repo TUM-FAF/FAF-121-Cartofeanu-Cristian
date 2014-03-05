@@ -3,7 +3,7 @@ Windows Programming Laboratory Work #1
 
 Title
 -----
-Window, Window handling, Basic window’s form elements.
+Window. Window handling. Basic window’s form elements.
 
 Introduction
 ------------
