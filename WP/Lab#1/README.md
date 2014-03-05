@@ -55,7 +55,7 @@ Result Application
 ------------------
 This is a screenshot of the application in the Windows 7 environment:
 
-![Screenshot]()
+![Screenshot](https://raw.github.com/TUM-FAF/FAF-121-Cartofeanu-Cristian/master/WP/Lab%231/IMG/Wireframe.png)
 
 Functionality
 -----------
